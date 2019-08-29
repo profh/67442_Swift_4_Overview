@@ -17,14 +17,14 @@ class Wall {
     print(verse)
   }
   
-  private func sing(_ extra: String = "") -> String {
+  private func sing(            ) ->       {
 
     
     
     
   }
   
-  private func takeOneDown() -> String {
+  private func takeOneDown() ->        {
 
     
     
